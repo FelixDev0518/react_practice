@@ -86,6 +86,5 @@ Git-과제 완료 후 github 또는 gitlab 개인 repository 생성 후 코드 P
 Readme 파일에 완성된 페이지 스크린샷 올릴것!\
 
 ![Alt text](/images/index_snapshot.png)
-<img src="/images/index_snapshot.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="index snapshot"></img>
 
 
