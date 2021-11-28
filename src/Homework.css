@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+/* html high light 지우기 */
+a {
+  text-decoration: none;
+  margin: 1em;
+  padding: 1em;
+  font-size: 2em;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #5365ac;
+  text-align: right;
+  color: white;
+}
+
+.number {
+  font-size: 3em;
+  font-family: 'Ubuntu', sans-serif;
+}
+.Homework {
+  margin: 3em;
+}
+
+input {
+  margin: 1em;
+  padding: 1em;
+}
+
+.txt {
+  border: none;
+  background-color: inherit;
+  font-size: 2em;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: bold;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.txt:hover {
+  background: #eee;
+}
+
+.txt.btn.plus {
+  color: #1b2b6b;
+}
+
+.txt.btn.default {
+  color: #0d0f1f;
+}
+
+.txt.btn.minus {
+  color: #c21949;
+}
