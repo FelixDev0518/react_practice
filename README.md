@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+#Homework fron CodingStudy in Aachen
+
+[:technologin::hautton-2:세가지 버튼을 이용한 카운터:technologe::hautton-2:]
+:react: BaseButton, TextButton, IconButton(또는 ImageButton), CounterNumber 컴포넌트 구현
+:plus1: Event: button 컴포넌트 클릭할 때마다 CounterNumber 1씩 증가
+hook사용하기
+:css: Style: inline 방식이 아닌:nein_geste_frau::hautton-2: 개별 css 파일로 구현할 것
+button default style 안나오게 할 것 (밑줄이나 파란색 border)
+IconButton으로 구현할 경우 배경색이나 기본버튼스타일 없이 아이콘만 나오도록 구현
+(bonus) hovering 효과주기
+:git: 과제 완료 후 github 또는 gitlab 개인 repository 생성 후 코드 Push 하기
+Readme 파일에 완성된 페이지 스크린샷 올릴것!
