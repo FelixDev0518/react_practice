@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
 
 # Homework fron CodingStudy in Aachen
-
+:grinning:
 [ :technologin: :hautton-2: 세가지 버튼을 이용한 카운터 :technologe: :hautton-2: ]
 :react: BaseButton, TextButton, IconButton(또는 ImageButton), CounterNumber 컴포넌트 구현
 :plus1: Event: button 컴포넌트 클릭할 때마다 CounterNumber 1씩 증가
