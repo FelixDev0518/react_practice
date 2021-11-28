@@ -31,7 +31,7 @@ function Counter(props){
             <input className="txt btn minus" type="button" value="minus 1" onClick={() => setNumber(number-=1)}/>
             <br/>
             {/* //icon button */}
-            <a className="fas fa-plus" class="button" href="#" onClick={() => setNumber(number+=1)}>
+            <a className="icon btn plus" class="button" href="#" onClick={() => setNumber(number+=1)}>
             <i class="fas fa-plus"></i>
             </a>
             <a className="icon btn default" class="button" href="#" onClick={() => setNumber(0)}>
