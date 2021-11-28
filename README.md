@@ -81,6 +81,9 @@ IconButton으로 구현할 경우 배경색이나 기본버튼스타일 없이 �
 (bonus) hovering 효과주기\
 Git-과제 완료 후 github 또는 gitlab 개인 repository 생성 후 코드 Push 하기\
 Readme 파일에 완성된 페이지 스크린샷 올릴것!\
+<<<<<<< HEAD
 
 ![Alt text](/images/index_snapshot.png)
 <img src="/images/index_snapshot.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="index snapshot"></img>
+=======
+>>>>>>> 2235b7439c8252a7a943163a31cb1d9b522b2d44
